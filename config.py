@@ -1,5 +1,5 @@
-api_key = 'KENdd8rW3EiHeVmolaKd'
-api_secret = 'YDKH4bFItQqXZqo12DvqGltVgauBaRqU7kuN'
+api_key = ''
+api_secret = ''
 
 symbol = 'XRPUSDT'
 
