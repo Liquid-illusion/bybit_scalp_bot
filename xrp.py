@@ -19,7 +19,7 @@ stoLs = config.stoLs
 
 decimals = 4
 
-def getOrderBook():
+def get_order_book():
     global ask
     global bid
     orderbook = exchange.fetchOrderBook(symbol=symbol,limit=10)
